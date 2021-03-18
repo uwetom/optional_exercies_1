@@ -1,0 +1,3 @@
+C:/Users/t-garne/OneDrive - UWE Bristol (Staff)/Creative-technology/Games Technology/c++/projects/optional_exercies_1/cmake-build-debug/CMakeFiles/optional_exercies_1.dir
+C:/Users/t-garne/OneDrive - UWE Bristol (Staff)/Creative-technology/Games Technology/c++/projects/optional_exercies_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/t-garne/OneDrive - UWE Bristol (Staff)/Creative-technology/Games Technology/c++/projects/optional_exercies_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

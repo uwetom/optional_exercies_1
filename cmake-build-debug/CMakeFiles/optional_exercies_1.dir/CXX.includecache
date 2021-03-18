@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/t-garne/OneDrive - UWE Bristol (Staff)/Creative-technology/Games Technology/c++/projects/optional_exercies_1/main.cpp
+iostream
+-
+iomanip
+-
+
